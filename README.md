@@ -13,13 +13,12 @@
   </a>
 </div>
 
-- :telescope: I’m working as a IT & Electronics Technician @ [Brightstuff](www.brightstuff.pt).
+- :telescope: I’m working as a IT & Electronics Technician @ [Brightstuff](https://www.brightstuff.pt).
 
 - :seedling: Exploring the world of Front-End Development (In love with it).
 
 - :zap: In my free time, I'm a gamer, music addict, and pet lover. (Got a dog named JSON)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
