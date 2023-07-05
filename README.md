@@ -13,9 +13,7 @@
   </a>
 </div>
 
-- :telescope: I’m working as a IT & Electronics Technician @ [Brightstuff](https://www.brightstuff.pt).
-
-- :seedling: Exploring the world of Front-End Development (In love with it).
+- :seedling: Exploring the world of Full-Stack Development (In love with it).
 
 - :zap: In my free time, I'm a gamer, music addict, and pet lover. (Got a dog named JSON)
 
